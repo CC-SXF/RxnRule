@@ -1,1 +1,1 @@
-# PyMiner-rxnRule
+# RxnRule
